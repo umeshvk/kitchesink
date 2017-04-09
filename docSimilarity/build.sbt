@@ -1,4 +1,4 @@
-name := "p1"
+name := "doc-similarity"
 
 version := "1.0"
 
